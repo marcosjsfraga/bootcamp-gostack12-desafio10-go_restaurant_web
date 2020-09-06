@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "Ao molho.",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
       "available": true,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "A la Camarón",
+      "name": "A la Camarón red",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
       "available": true,
